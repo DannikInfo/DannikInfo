@@ -4,6 +4,7 @@
 <img src="https://img.shields.io/badge/-Go lang-003b6f?style=for-the-badge&logo=go"> 
 <img src="https://img.shields.io/badge/-React-003b6f?style=for-the-badge&logo=react"> 
 <img src="https://img.shields.io/badge/-C++-003b6f?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/-ML/CV-003b6f?style=for-the-badge&logo=opencv">
 </span>
 </br>
 
