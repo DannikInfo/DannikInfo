@@ -1,6 +1,10 @@
 ### Danil Kozlovskiy (@dannikinfo) 👋
 </br>
-<img src="https://img.shields.io/badge/-Go lang-003b6f?style=for-the-badge&logo=go"> <img src="https://img.shields.io/badge/-React-003b6f?style=for-the-badge&logo=react"> <img src="https://img.shields.io/badge/-C++-003b6f?style=for-the-badge&logo=cplusplus">
+<span>
+<img src="https://img.shields.io/badge/-Go lang-003b6f?style=for-the-badge&logo=go"> 
+<img src="https://img.shields.io/badge/-React-003b6f?style=for-the-badge&logo=react"> 
+<img src="https://img.shields.io/badge/-C++-003b6f?style=for-the-badge&logo=cplusplus">
+</span>
 </br>
 
 #### My contacts
