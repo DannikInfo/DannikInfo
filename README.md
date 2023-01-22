@@ -1,16 +1,17 @@
-### Hi there 👋
+### Danil Kozlovskiy (@dannikinfo) 👋
+</br>
+<img src="https://img.shields.io/badge/-Go lang-003b6f?style=for-the-badge&logo=go">
+<img src="https://img.shields.io/badge/-React-003b6f?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/-C++-003b6f?style=for-the-badge&logo=cplusplus">
+</br>
+</br>
 
-<!--
-**DannikInfo/DannikInfo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<span style="text-align: center">
 
-Here are some ideas to get you started:
+#### My contacts
+<a href="//t.me/dannikinfo">Telegram</a> | <a href="https://www.linkedin.com/in/данил-козловский-87550a20a/">LinkedIN</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</span>
+</br>
+
+![DannikInfo GitHub stats](https://github-readme-stats.vercel.app/api?username=dannikinfo&show_icons=true&theme=radical)
