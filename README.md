@@ -12,7 +12,7 @@
 <b>ML/CV</b> - изучаю с ноября 2021 года  
 
 #### My contacts
-<a href="//vk.com/dannikinfo">VK</a> | <a href="//t.me/dannikinfo">Telegram</a> | <a href="https://www.linkedin.com/in/данил-козловский-87550a20a/">LinkedIN</a>
+<a href="//vk.com/dannikinfo">VK</a> | <a href="//t.me/dannikinfo">Telegram</a> | <a href="https://www.linkedin.com/in/danil-kozlovsky-87550a20a/">LinkedIN</a>
 
 </br>
 
